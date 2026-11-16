@@ -1,0 +1,7 @@
+name: tarea-evaluable-01
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - snakemake>=9
+  - graphviz  # para crear los grafos del workflow
